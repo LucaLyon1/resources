@@ -38,3 +38,11 @@
 - [/r/entrepreneur](https://www.reddit.com/r/Entrepreneur/)
 - [/r/SideProject](https://www.reddit.com/r/SideProject/)
 - [Startups for the rest of us](https://www.startupsfortherestofus.com/greatest-hits)
+
+***
+
+## Misc
+
+- [Typeform](https://www.typeform.com/)
+- [Buffer's roadmap](https://buffer.com/resources/transparent-product-roadmap/)
+- [PhantomJs and shareable pictures](https://levels.io/phantomjs-social-media-share-pictures/)
