@@ -42,9 +42,10 @@
 
 ***
 
-## SEO
+## SEO & Design
 
 - [Moz blog](https://moz.com/blog)
+- [Awesome repo, design links](https://github.com/nicolesaidy/awesome-web-design#readme)
 
 ***
 
