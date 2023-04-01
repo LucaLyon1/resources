@@ -4,6 +4,12 @@
 
 ***
 
+## The original link
+
+- [Awesome](https://github.com/sindresorhus/awesome)
+
+***
+
 ## AI tools
 - [Chat GPT prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [Cursor, AI-augmented code editor](https://github.com/getcursor/cursor)
