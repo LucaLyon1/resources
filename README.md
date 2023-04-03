@@ -62,6 +62,7 @@
 - [PhantomJs and shareable pictures](https://levels.io/phantomjs-social-media-share-pictures/)
 - [Very interesting articles from a bootstrapped founder : Tyler Tringas](https://tylertringas.com/)
 - [Interesting website featuring case studies, podcasts, videos ...](https://stackingthebricks.com/)
+- [Everyday App](https://everyday.app/)
 
 ***
 
@@ -73,3 +74,6 @@
 - [Marketing generation tool](https://app.acquire.com/startup/yP4O6jA6GzXjgffAkrwrVMGqpWy2/SY4R9HbXqhSyvXmiTvET)
 - [Cross newsletter promotion](https://app.acquire.com/startup/lV1UqItDMHhNz0LVf2kmGxx3MXF3/fjzKUeBQeXOHr2UuVwnM)
 - List of campment destination (removed from acquire)
+- [Feather, easy blog tool](https://feather.so/)
+- [Airtable](https://www.airtable.com/toolkit)
+- [Form builder](https://tally.so/)
