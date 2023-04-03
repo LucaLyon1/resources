@@ -62,3 +62,14 @@
 - [PhantomJs and shareable pictures](https://levels.io/phantomjs-social-media-share-pictures/)
 - [Very interesting articles from a bootstrapped founder : Tyler Tringas](https://tylertringas.com/)
 - [Interesting website featuring case studies, podcasts, videos ...](https://stackingthebricks.com/)
+
+***
+
+## Acquire.com ideas 
+
+- [Shopify app](https://app.acquire.com/startup/bV0mcCHOR4RfUhpXkilLjQtB2fi2/AVqxXA9gQAT14RMfiz8e)
+- [Helper for content creators](https://app.acquire.com/startup/hFMPdAxWSIPFiJkAoPkq2i07MFU2/w2zdRb3tLiwkphhVJ5dS)
+- [SEO audit](https://app.acquire.com/startup/mTHLad6FAYhKBGPTWjQHpi5mfX32/cQP9weYVUe8kFyjwEJpO)
+- [Marketing generation tool](https://app.acquire.com/startup/yP4O6jA6GzXjgffAkrwrVMGqpWy2/SY4R9HbXqhSyvXmiTvET)
+- [Cross newsletter promotion](https://app.acquire.com/startup/lV1UqItDMHhNz0LVf2kmGxx3MXF3/fjzKUeBQeXOHr2UuVwnM)
+- List of campment destination (removed from acquire)
