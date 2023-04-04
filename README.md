@@ -11,6 +11,7 @@
 ***
 
 ## AI tools
+
 - [Chat GPT prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [Cursor, AI-augmented code editor](https://github.com/getcursor/cursor)
 
@@ -67,6 +68,7 @@
 
 - [Typeform](https://www.typeform.com/)
 - [Jigsaw Landing page](https://jigsaw.tighten.com/)
+- [Astro Landing page](https://astro.build/)
 - [Buffer's roadmap](https://buffer.com/resources/transparent-product-roadmap/)
 - [PhantomJs and shareable pictures](https://levels.io/phantomjs-social-media-share-pictures/)
 - [Very interesting articles from a bootstrapped founder : Tyler Tringas](https://tylertringas.com/)
