@@ -71,6 +71,7 @@
 - [Very interesting articles from a bootstrapped founder : Tyler Tringas](https://tylertringas.com/)
 - [Interesting website featuring case studies, podcasts, videos ...](https://stackingthebricks.com/)
 - [Everyday App](https://everyday.app/)
+- [Slideshare](https://www.slideshare.net/mjskok/startup-secrets-roadmap-to-success)
 
 ***
 
