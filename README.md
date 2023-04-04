@@ -37,6 +37,7 @@
 
 ## Entrepreneurship
 
+- [Problem first (!)](https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c)
 - [Awesome-Indie, the source of all those links](https://github.com/mezod/awesome-indie#readme)
 - [The Saas Bootstrapper](https://www.thesaasbootstrapper.co/)
 - [Bootstrapper.io (coming soon ?)](https://bootstrappers.io/)
