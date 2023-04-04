@@ -37,7 +37,6 @@
 
 ## Entrepreneurship
 
-- [Problem first (!)](https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c)
 - [Awesome-Indie, the source of all those links](https://github.com/mezod/awesome-indie#readme)
 - [The Saas Bootstrapper](https://www.thesaasbootstrapper.co/)
 - [Bootstrapper.io (coming soon ?)](https://bootstrappers.io/)
@@ -46,6 +45,14 @@
 - [/r/SideProject](https://www.reddit.com/r/SideProject/)
 - [Startups for the rest of us](https://www.startupsfortherestofus.com/greatest-hits)
 - [The Foundation](https://thefoundation.com/)
+
+***
+
+## Indiehackers 
+
+- [Problem first (!)](https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c)
+- [Valuable problems](https://www.indiehackers.com/post/why-do-some-entrepreneurs-earn-more-than-others-dc81985afd?commentId=-M0t2SddC3EwBGMmLGAO)
+
 
 ***
 
