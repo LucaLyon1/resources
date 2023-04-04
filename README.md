@@ -66,6 +66,7 @@
 ## Misc
 
 - [Typeform](https://www.typeform.com/)
+- [Jigsaw Landing page](https://jigsaw.tighten.com/)
 - [Buffer's roadmap](https://buffer.com/resources/transparent-product-roadmap/)
 - [PhantomJs and shareable pictures](https://levels.io/phantomjs-social-media-share-pictures/)
 - [Very interesting articles from a bootstrapped founder : Tyler Tringas](https://tylertringas.com/)
