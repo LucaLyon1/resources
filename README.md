@@ -92,3 +92,10 @@
 - [Airtable](https://www.airtable.com/toolkit)
 - [Form builder](https://tally.so/)
 - [Arounda](https://arounda.agency/)
+
+***
+
+## Review site, search for negative reviews
+
+- [G2](https://www.g2.com/)
+- [CapTerra](https://www.capterra.com/)
