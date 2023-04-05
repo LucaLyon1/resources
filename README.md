@@ -68,6 +68,7 @@
 ## Misc
 
 - [Typeform](https://www.typeform.com/)
+- [Exploding topics](https://explodingtopics.com/)
 - [Jigsaw Landing page](https://jigsaw.tighten.com/)
 - [Astro Landing page](https://astro.build/)
 - [Buffer's roadmap](https://buffer.com/resources/transparent-product-roadmap/)
