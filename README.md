@@ -6,12 +6,12 @@
 
 # Artificial Intelligence & Autonomous Agents
 
-- [Pinecone, Long-term memory for AI]{https://www.pinecone.io/}
-- [Langchain (??)]{https://github.com/hwchase17/langchainjs}
-- [AgentGPT, deploy your autonomous agent]{https://agentgpt.reworkd.ai/fr}
-- [Godmode, same]{https://godmode.space/}
-- [Mage, NSFW images]{https://www.mage.space/}
-- [NexusGPT, first AI-freelancer platform]{https://nexus.snikpic.io/}
+- [Pinecone, Long-term memory for AI](https://www.pinecone.io/)
+- [Langchain (??)](https://github.com/hwchase17/langchainjs)
+- [AgentGPT, deploy your autonomous agent](https://agentgpt.reworkd.ai/fr)
+- [Godmode, same](https://godmode.space/)
+- [Mage, NSFW images](https://www.mage.space/)
+- [NexusGPT, first AI-freelancer platform](https://nexus.snikpic.io/)
 
 ***
 
