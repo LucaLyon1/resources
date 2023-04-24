@@ -30,6 +30,7 @@
 
 ## NextJS templates, boilerplates and inspirations
 
+- [Headless UI]{https://headlessui.com/react/menu}
 - [Blazity Saas template](https://github.com/Blazity/next-saas-starter)
 - [NextJS Saas templates (topic)](https://github.com/topics/nextjs-saas)
 - [Blog templates](https://github.com/topics/nextjs-blog)
