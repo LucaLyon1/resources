@@ -4,6 +4,15 @@
 
 ***
 
+# Artificial Intelligence & Autonomous Agents
+
+- [Pinecone, Long-term memory for AI]{https://www.pinecone.io/}
+- [Langchain (??)]{https://github.com/hwchase17/langchainjs}
+- [AgentGPT, deploy your autonomous agent]{https://agentgpt.reworkd.ai/fr}
+- [Godmode, same]{https://godmode.space/}
+
+***
+
 ## The original link
 
 - [Awesome](https://github.com/sindresorhus/awesome)
