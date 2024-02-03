@@ -4,6 +4,14 @@
 
 ***
 
+# Discipline, Enjoy the process :
+
+- [6 ways to do hard things](https://victormong.medium.com/do-hard-things-to-have-an-easy-life-10a6558e0bc4)
+- [Convince yourself to do hard things](https://hbr.org/2021/12/how-to-convince-yourself-to-do-hard-things)
+- [Start doing the things you say you want to do](https://www.forbes.com/sites/erikaandersen/2015/10/05/how-to-start-doing-the-things-you-say-you-want-to-do/)
+
+***
+
 # Artificial Intelligence & Autonomous Agents
 
 - [Pinecone, Long-term memory for AI](https://www.pinecone.io/)
