@@ -12,33 +12,22 @@
 
 ***
 
-# Artificial Intelligence & Autonomous Agents
-
-- [Pinecone, Long-term memory for AI](https://www.pinecone.io/)
-- [Langchain (??)](https://github.com/hwchase17/langchainjs)
-- [AgentGPT, deploy your autonomous agent](https://agentgpt.reworkd.ai/fr)
-- [Godmode, same](https://godmode.space/)
-- [Mage, NSFW images](https://www.mage.space/)
-- [NexusGPT, first AI-freelancer platform](https://nexus.snikpic.io/)
-
-***
-
 ## The original link
 
 - [Awesome](https://github.com/sindresorhus/awesome)
 
 ***
 
-## AI tools
+## Online Courses to take (if no free alternatives)
 
-- [Chat GPT prompts](https://github.com/f/awesome-chatgpt-prompts)
-- [Cursor, AI-augmented code editor](https://github.com/getcursor/cursor)
-
-***
+- [Cloud Computing](https://www.udacity.com/catalog/all/any-price/cloud%20computing/any-skill/any-difficulty/any-duration/any-type/most-popular/page-1)
+- [Mathematics](https://www.khanacademy.org/math)
+- [Wish List Udemy](https://www.udemy.com/home/my-courses/wishlist/)
+- []()
 
 ## NextJS templates, boilerplates and inspirations
 
-- [Headless UI]{https://headlessui.com/react/menu}
+- [Headless UI](https://headlessui.com/react/menu)
 - [Blazity Saas template](https://github.com/Blazity/next-saas-starter)
 - [NextJS Saas templates (topic)](https://github.com/topics/nextjs-saas)
 - [Blog templates](https://github.com/topics/nextjs-blog)
@@ -97,21 +86,6 @@
 - [Interesting website featuring case studies, podcasts, videos ...](https://stackingthebricks.com/)
 - [Everyday App](https://everyday.app/)
 - [Slideshare](https://www.slideshare.net/mjskok/startup-secrets-roadmap-to-success)
-
-***
-
-## Acquire.com ideas 
-
-- [Shopify app](https://app.acquire.com/startup/bV0mcCHOR4RfUhpXkilLjQtB2fi2/AVqxXA9gQAT14RMfiz8e)
-- [Helper for content creators](https://app.acquire.com/startup/hFMPdAxWSIPFiJkAoPkq2i07MFU2/w2zdRb3tLiwkphhVJ5dS)
-- [SEO audit](https://app.acquire.com/startup/mTHLad6FAYhKBGPTWjQHpi5mfX32/cQP9weYVUe8kFyjwEJpO)
-- [Marketing generation tool](https://app.acquire.com/startup/yP4O6jA6GzXjgffAkrwrVMGqpWy2/SY4R9HbXqhSyvXmiTvET)
-- [Cross newsletter promotion](https://app.acquire.com/startup/lV1UqItDMHhNz0LVf2kmGxx3MXF3/fjzKUeBQeXOHr2UuVwnM)
-- List of campment destination (removed from acquire)
-- [Feather, easy blog tool](https://feather.so/)
-- [Airtable](https://www.airtable.com/toolkit)
-- [Form builder](https://tally.so/)
-- [Arounda](https://arounda.agency/)
 
 ***
 
