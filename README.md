@@ -71,6 +71,11 @@
 
 - [Moz blog](https://moz.com/blog)
 - [Awesome repo, design links](https://github.com/nicolesaidy/awesome-web-design#readme)
+- [Minimal Gallery](https://minimal.gallery/)
+- [Dark mode design](https://www.darkmodedesign.com/)
+- [Awwwards](https://www.awwwards.com/)
+- [Refero](https://refero.design/)
+- [Stack Sorted](https://stacksorted.com/buttons)
 
 ***
 
