@@ -29,6 +29,7 @@
 
 ## Ressources for algo builder
 
+- [React Flow ❤️](https://reactflow.dev/)
 - [jsPlumb](https://jsplumbtoolkit.com/)
 - [Stately](https://stately.ai/)
 - [Mermaid](https://mermaid.js.org/intro/)
