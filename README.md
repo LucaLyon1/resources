@@ -25,6 +25,16 @@
 - [Wish List Udemy](https://www.udemy.com/home/my-courses/wishlist/)
 - []()
 
+***
+
+## Ressources for algo builder
+
+- [jsPlumb](https://jsplumbtoolkit.com/)
+- [Stately](https://stately.ai/)
+- [Mermaid](https://mermaid.js.org/intro/)
+
+***
+
 ## NextJS templates, boilerplates and inspirations
 
 - [Headless UI](https://headlessui.com/react/menu)
