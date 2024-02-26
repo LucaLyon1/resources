@@ -30,10 +30,11 @@
 ## Ressources for algo builder
 
 - [React Flow ❤️](https://reactflow.dev/)
-- [React diagrams ❤️](https://github.com/projectstorm/react-diagrams)
+- [React diagrams](https://github.com/projectstorm/react-diagrams)
 - [jsPlumb](https://jsplumbtoolkit.com/)
 - [Stately](https://stately.ai/)
 - [Mermaid](https://mermaid.js.org/intro/)
+- [Blockly by Google ❤️](https://developers.google.com/blockly?hl=fr)
 
 ***
 
