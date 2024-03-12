@@ -31,19 +31,27 @@
 
 - [React Flow ❤️](https://reactflow.dev/)
 - [React diagrams](https://github.com/projectstorm/react-diagrams)
-- [jsPlumb](https://jsplumbtoolkit.com/)
 - [Stately](https://stately.ai/)
 - [Mermaid](https://mermaid.js.org/intro/)
 - [Blockly by Google ❤️](https://developers.google.com/blockly?hl=fr)
 
 ***
 
+## SEO & Design
+
+- [Moz blog](https://moz.com/blog)
+- [Awesome repo, design links](https://github.com/nicolesaidy/awesome-web-design#readme)
+- [Minimal Gallery](https://minimal.gallery/)
+- [Dark mode design](https://www.darkmodedesign.com/)
+- [Awwwards](https://www.awwwards.com/)
+- [Refero](https://refero.design/)
+- [Stack Sorted](https://stacksorted.com/buttons)
+
+
+***
+
 ## NextJS templates, boilerplates and inspirations
 
-- [Headless UI](https://headlessui.com/react/menu)
-- [Blazity Saas template](https://github.com/Blazity/next-saas-starter)
-- [NextJS Saas templates (topic)](https://github.com/topics/nextjs-saas)
-- [Blog templates](https://github.com/topics/nextjs-blog)
 - [Omitplastic (code inspiration)](https://github.com/gavinmgrant/omitplastic)
 
 ***
@@ -77,18 +85,6 @@
 - [Problem first (!)](https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c)
 - [Valuable problems](https://www.indiehackers.com/post/why-do-some-entrepreneurs-earn-more-than-others-dc81985afd?commentId=-M0t2SddC3EwBGMmLGAO)
 
-
-***
-
-## SEO & Design
-
-- [Moz blog](https://moz.com/blog)
-- [Awesome repo, design links](https://github.com/nicolesaidy/awesome-web-design#readme)
-- [Minimal Gallery](https://minimal.gallery/)
-- [Dark mode design](https://www.darkmodedesign.com/)
-- [Awwwards](https://www.awwwards.com/)
-- [Refero](https://refero.design/)
-- [Stack Sorted](https://stacksorted.com/buttons)
 
 ***
 
