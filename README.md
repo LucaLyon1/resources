@@ -26,6 +26,19 @@
 - []()
 
 ***
+
+## Public API for ideation
+
+- [Datamuse, word API](https://www.datamuse.com/api/)
+- [Aletheia, technical and fundamental datas for stocks](https://aletheiaapi.com/)
+- [Econdb, economic datas](https://www.econdb.com/home)
+- [smartAPI, turn your product into a broker easily](https://smartapi.angelbroking.com/)
+- [iLovePDF, pdf workflows](https://developer.ilovepdf.com/)
+- [CraftMyPDF, send datas, get a PDF (with template](https://craftmypdf.com/)
+- [PrexView, same, but better design](https://prexview.com/templates/)
+
+***
+
 ## Ebooks to read in transportations
 
 - [Data Structures and Algorithm Analysis in C++](https://people.cs.vt.edu/~shaffer/Book/C++3elatest.pdf)
