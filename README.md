@@ -18,6 +18,20 @@
 
 ***
 
+## Finance & Econ
+
+- [microecon](https://www.coursera.org/learn/microeconomics)
+- [mooc yale](https://www.coursera.org/learn/financial-markets-global)
+- [best practices](https://www.amazon.com/Best-Practices-Equity-Research-Analysts/dp/0071736387/ref=as_li_ss_tl?ie=UTF8&keywords=equity+analyst&linkCode=sl1&linkId=2332813fb6d0dd80f2f8a85ccff750dd&qid=1451541895&sr=8-1&tag=somethougandp-20)
+- [most important thing](https://www.amazon.com/Most-Important-Thing-Illuminated-Thoughtful/dp/0231162847/ref=as_li_ss_tl?ie=UTF8&qid=1451541942&sr=8-1&keywords=howard+marks&linkCode=sl1&tag=somethougandp-20&linkId=e66eb7170fd9c386ff5d536e97a10c7b)
+- [investment checklist](https://www.amazon.com/Investment-Checklist-Art--Depth-Research/dp/0470891858/ref=as_li_ss_tl?ie=UTF8&qid=1451541954&sr=8-1&keywords=investment+checklist&linkCode=sl1&tag=somethougandp-20&linkId=801bbb10bbf97b871319919f3288827f)
+- [against the gods](https://www.amazon.com/Against-Gods-Remarkable-Story-Risk/dp/0471295639/ref=as_li_ss_tl?ie=UTF8&qid=1451541976&sr=8-1&keywords=against+the+gods&linkCode=sl1&tag=somethougandp-20&linkId=bd409f94423a63bd1a31cdfaed944085)
+- [fooled by randomness](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219/ref=as_li_ss_tl?ie=UTF8&qid=1451541995&sr=8-1&keywords=fooled+by+randomness&linkCode=sl1&tag=somethougandp-20&linkId=e1f17bd12e681d1a446b60565e65414b)
+- [ ]()
+- [ ]()
+
+***
+
 ## Online Courses to take (if no free alternatives)
 
 - [Cloud Computing](https://www.udacity.com/catalog/all/any-price/cloud%20computing/any-skill/any-difficulty/any-duration/any-type/most-popular/page-1)
